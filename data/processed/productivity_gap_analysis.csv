@@ -1,0 +1,4 @@
+gap_type,dimension,actual,benchmark,gap,gap_pct,additional_oz,revenue_opportunity_aud,source
+Machine Productivity,Ore Throughput,4.5 Mtpa,8.4 Mtpa,3.9 Mtpa,46.42857142857143,171154.37169450388,1141086196.0872574,Ravenswood Gold — 8.4 Mtpa design capacity (statements.qld.gov.au)
+Human Productivity,Tonnes per Worker,"11,250 t/worker","21,000 t/worker","9,750 t/worker",46.42857142857143,171154.37169450385,1141086196.0872571,Benchmark derived from 8.4 Mtpa target / 400 workers (MCA 2024 / Ravenswood statements)
+Recovery Rate,Gold Recovery %,85.0%,91.0%,6.0%,6.0,13021.042647933513,86811291.33377273,World Gold Council / Ausenco EPCM design spec — 91% CIP recovery target (ausenco.com)

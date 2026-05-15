@@ -1,0 +1,4 @@
+financial_year,ore_throughput_tonnes,dore_output_tonnes,gold_mined_oz,gold_recovered_oz,ore_to_dore_ratio,recovery_rate_pct,avg_workers,max_workers,min_workers,tonnes_per_worker,workers_per_mtpa,gold_oz_per_worker
+2021-22,8951016.0,9.1447741275,525398.0,506483.0,978812.0,96.4,6800,7588,6445,1316.0,759.7,74.48
+2022-23,14642594.0,13.64408126483456,619266.0,607768.62,1073183.0,98.14,6606,7429,6192,2217.0,451.1,92.0
+2023-24,13515493.0,164.12913587493162,1234832.0,665206.39,82347.0,53.87,6252,6431,5958,2162.0,462.6,106.4

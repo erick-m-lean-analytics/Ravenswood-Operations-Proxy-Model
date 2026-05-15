@@ -1,0 +1,46 @@
+year,throughput_mtpa,process_step,occupation,emp_per_mtpa_mid,required_headcount,jsa_shortage_status,fill_risk,notes
+2026,4.5,Dig,"Drillers, Miners & Shot Firers",5.0,22.5,Shortage,HIGH,Core open cut mining crew — consistently hardest to fill
+2026,4.5,Dig,Mobile Plant Operators,10.0,45.0,Shortage,HIGH,Haul truck and excavator operators — DIDO premium required
+2026,4.5,Dig,Mining Engineers,2.5,11.2,Shortage,HIGH,Fill rate 42% in 2021 — 6th lowest of all occupations
+2026,4.5,Dig,Geologists,1.5,6.8,Shortage,HIGH,Grade control geologists critical for open cut operations
+2026,4.5,Crush,Mechanical Fitters,2.5,11.2,Shortage,HIGH,Fixed plant maintenance for crusher and ball mill circuits
+2026,4.5,Crush,Electrical & Instrumentation Technicians,2.0,9.0,Shortage,HIGH,Critical for crusher control systems and instrumentation
+2026,4.5,Leach,Processing Plant Operators,2.5,11.2,Shortage,HIGH,CIP leach circuit operators — shortage emerged post-expansion
+2026,4.5,Leach,Metallurgists,1.5,6.8,Shortage,HIGH,Process optimisation for gold recovery rate improvement
+2026,4.5,Smelt,Laboratory Technicians,0.75,3.4,Shortage,HIGH,Assay and quality control for dore production
+2026,4.5,Maintenance,Diesel Mechanics,4.0,18.0,Shortage,HIGH,Heavy mobile equipment — highest demand role at remote sites
+2026,4.5,Maintenance,Electricians,2.5,11.2,Shortage,HIGH,Fixed and mobile plant electrical maintenance
+2026,4.5,Technical,Surveyors & Spatial Scientists,0.75,3.4,Shortage,HIGH,Open pit survey and grade control support
+2026,4.5,Technical,Data & Business Intelligence Analysts,0.75,3.4,Shortage,HIGH,Digitalisation driver — target role for this portfolio
+2026,4.5,Technical,Safety & Health Officers,1.25,5.6,Shortage,HIGH,Regulatory compliance and incident management
+2026,4.5,Administration,Environmental Scientists,0.75,3.4,Shortage,HIGH,EA compliance and rehabilitation obligations
+2027,6.5,Dig,"Drillers, Miners & Shot Firers",5.0,32.5,Shortage,HIGH,Core open cut mining crew — consistently hardest to fill
+2027,6.5,Dig,Mobile Plant Operators,10.0,65.0,Shortage,HIGH,Haul truck and excavator operators — DIDO premium required
+2027,6.5,Dig,Mining Engineers,2.5,16.2,Shortage,HIGH,Fill rate 42% in 2021 — 6th lowest of all occupations
+2027,6.5,Dig,Geologists,1.5,9.8,Shortage,HIGH,Grade control geologists critical for open cut operations
+2027,6.5,Crush,Mechanical Fitters,2.5,16.2,Shortage,HIGH,Fixed plant maintenance for crusher and ball mill circuits
+2027,6.5,Crush,Electrical & Instrumentation Technicians,2.0,13.0,Shortage,HIGH,Critical for crusher control systems and instrumentation
+2027,6.5,Leach,Processing Plant Operators,2.5,16.2,Shortage,HIGH,CIP leach circuit operators — shortage emerged post-expansion
+2027,6.5,Leach,Metallurgists,1.5,9.8,Shortage,HIGH,Process optimisation for gold recovery rate improvement
+2027,6.5,Smelt,Laboratory Technicians,0.75,4.9,Shortage,HIGH,Assay and quality control for dore production
+2027,6.5,Maintenance,Diesel Mechanics,4.0,26.0,Shortage,HIGH,Heavy mobile equipment — highest demand role at remote sites
+2027,6.5,Maintenance,Electricians,2.5,16.2,Shortage,HIGH,Fixed and mobile plant electrical maintenance
+2027,6.5,Technical,Surveyors & Spatial Scientists,0.75,4.9,Shortage,HIGH,Open pit survey and grade control support
+2027,6.5,Technical,Data & Business Intelligence Analysts,0.75,4.9,Shortage,HIGH,Digitalisation driver — target role for this portfolio
+2027,6.5,Technical,Safety & Health Officers,1.25,8.1,Shortage,HIGH,Regulatory compliance and incident management
+2027,6.5,Administration,Environmental Scientists,0.75,4.9,Shortage,HIGH,EA compliance and rehabilitation obligations
+2028,8.4,Dig,"Drillers, Miners & Shot Firers",5.0,42.0,Shortage,HIGH,Core open cut mining crew — consistently hardest to fill
+2028,8.4,Dig,Mobile Plant Operators,10.0,84.0,Shortage,HIGH,Haul truck and excavator operators — DIDO premium required
+2028,8.4,Dig,Mining Engineers,2.5,21.0,Shortage,HIGH,Fill rate 42% in 2021 — 6th lowest of all occupations
+2028,8.4,Dig,Geologists,1.5,12.6,Shortage,HIGH,Grade control geologists critical for open cut operations
+2028,8.4,Crush,Mechanical Fitters,2.5,21.0,Shortage,HIGH,Fixed plant maintenance for crusher and ball mill circuits
+2028,8.4,Crush,Electrical & Instrumentation Technicians,2.0,16.8,Shortage,HIGH,Critical for crusher control systems and instrumentation
+2028,8.4,Leach,Processing Plant Operators,2.5,21.0,Shortage,HIGH,CIP leach circuit operators — shortage emerged post-expansion
+2028,8.4,Leach,Metallurgists,1.5,12.6,Shortage,HIGH,Process optimisation for gold recovery rate improvement
+2028,8.4,Smelt,Laboratory Technicians,0.75,6.3,Shortage,HIGH,Assay and quality control for dore production
+2028,8.4,Maintenance,Diesel Mechanics,4.0,33.6,Shortage,HIGH,Heavy mobile equipment — highest demand role at remote sites
+2028,8.4,Maintenance,Electricians,2.5,21.0,Shortage,HIGH,Fixed and mobile plant electrical maintenance
+2028,8.4,Technical,Surveyors & Spatial Scientists,0.75,6.3,Shortage,HIGH,Open pit survey and grade control support
+2028,8.4,Technical,Data & Business Intelligence Analysts,0.75,6.3,Shortage,HIGH,Digitalisation driver — target role for this portfolio
+2028,8.4,Technical,Safety & Health Officers,1.25,10.5,Shortage,HIGH,Regulatory compliance and incident management
+2028,8.4,Administration,Environmental Scientists,0.75,6.3,Shortage,HIGH,EA compliance and rehabilitation obligations
