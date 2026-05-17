@@ -4,7 +4,16 @@
 **Author:** Erick Mortera — Certified Lean Manufacturing Trainer | Industrial Engineer | Business Intelligence Analyst  
 **Tools:** Python · MySQL · Power BI · Queensland Government Open Data · RSHQ Safety Data · ABS Labour Statistics  
 **Status:** Analysis complete
+---
 
+## Quick Access
+
+| Resource | Link |
+|---|---|
+| 📊 **Dashboard PDF** (4 pages, all visuals) | [View Dashboard](output/Ravenswood_Operations_Dashboard.pdf) |
+| 💾 **Power BI File** (interactive, requires Power BI Desktop) | [Download .pbix](dashboard/Ravenswood_Operations_Dashboard.pbix) |
+| 📓 **Notebooks** (full analytical workflow) | [View Notebooks](notebooks/) |
+| 🗄️ **Processed Data** (all CSVs) | [View Data](data/processed/) |
 ---
 
 ## Executive Summary
