@@ -3,7 +3,7 @@
 
 **Author:** Erick Mortera — Certified Lean Manufacturing Trainer | Industrial Engineer | Business Intelligence Analyst  
 **Tools:** Python · MySQL · Power BI · Queensland Government Open Data · RSHQ Safety Data · ABS Labour Statistics  
-**Status:** Analysis complete — Dashboard in development
+**Status:** Analysis complete
 
 ---
 
@@ -261,7 +261,19 @@ All three critical risks are internal — meaning they are within management's a
 
 ## Dashboard
 
-🔗 **Interactive Power BI Dashboard** — Coming soon  
+ ## Dashboard
+
+📊 **Power BI Dashboard (PDF Export)** — [View Dashboard](output/Ravenswood_Operations_Dashboard.pdf)  
+🔗 **Interactive Power BI Dashboard** — Not publicly hosted. Power BI Service requires a work or school Microsoft account for web publishing. The `.pbix` file is available in the `dashboard/` folder for download and local viewing in Power BI Desktop (free).
+🔗 **Web Dashboard (public access)** — Coming soon (React — in development)
+
+The Power BI report connects directly to the MySQL `ravenswood_operations` database across four pages:
+- **Executive Overview** — SCDP KPIs (Safety, Cost, Delivery, Productivity) + revenue forecast + safety trend
+- **Production** — Ore throughput, doré output, recovery rate, productivity gap table
+- **Labour & Workforce** — Quarterly headcount trend, productivity metrics, skills demand forecast
+- **Safety** — SAFR/HPIFR trends, incident counts, HPI-to-SA ratio, benchmarking table
+
+The `.pbix` file is available in the `dashboard/` folder for download and local use with Power BI Desktop (free).
 🔗 **Web Dashboard (public access)** — Coming soon
 
 The dashboard layer connects directly to the MySQL database and presents the three-pillar framework as an interactive operational monitoring tool. Both a Power BI report (for internal/desktop use) and a web-based dashboard (for public portfolio access) are currently in development.
@@ -442,7 +454,7 @@ Under CC BY 4.0 you are free to share and adapt this work for any purpose, provi
 
 ## AI Assistance Disclosure
 
-Python code for data processing, visualisation, and database architecture was developed with assistance from Claude (Anthropic), an AI language model. All analytical decisions, framework design, assumptions, and interpretations are the author's own.
+Python code for data processing, visualisation, and database architecture was developed with assistance from an AI language model. All analytical decisions, framework design, assumptions, and interpretations are the author's own.
 
 The intellectual contributions that are unambiguously the author's: the three-pillar framework design, the cross-pillar linkage architecture, the HPI-to-SA ratio as a leading indicator finding, the hedging opportunity cost narrative, the emp/Mtpa workforce demand methodology, the risk assessment scoring, and all domain judgements about mining operations.
 
